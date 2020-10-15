@@ -1,0 +1,29 @@
+PROGRAMACION
+
+profesorjim@gmail.com
+juanantonio.jimenez@iescampanillas.com
+
+- máquina virtual de Java (JDK)
+- IDE (Geany / NetBeans)
+- diagramador de flujo
+
+TightVNC / TeamViewer
+
+
+- hay mucho software que instalar ---> El equipo "windows" se deteriora
+- Máquina Virtual --- VirtualBox
+
+https://github.com/LuisJoseSanchez/programacion
+
+-- Subiremos los programas en JAVA a nuestra respectiva cuenta en GitHub (plataforma)
+-- Debéis aprender a instalar el software por vosotros mismos
+
+-- Versión de JAVA vista hasta este curso: 8 ---> ¿11?
+
+pseint  --> programa de diagramación para programación
+
+
+
+- No usar "eñes" ni caracteres acentuados
+
+
