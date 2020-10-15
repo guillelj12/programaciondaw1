@@ -19,7 +19,7 @@ public class pequeñafactura{
     double b = Double.parseDouble(System.console().readLine());
     int c = (int) (a * b);
     
-    System.out.println("El nombre de su segundo artículo");
+    System.out.println("El nombre de su tercer artículo");
     String nombre3 = (System.console().readLine());
     System.out.println("La cantidad que posee de este");
     int m = Integer.parseInt(System.console().readLine());
@@ -29,10 +29,7 @@ public class pequeñafactura{
     
     int total = (z+c+o);
     
-    System.out.println(z+", "+c+", "+o+" y "+total);
-    
-    System.out.println("Artículo     Cantidad     Precio Unidad     Subtotal");
-    System.out.println("-----------------------------------------------------\n");
+    System.out.println(z+", "+c+", "+o+" y el total de dinero es "+total);
   
   }
 }
